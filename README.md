@@ -68,3 +68,7 @@ The dataset file `project_performance_dataset.csv` is automatically loaded by th
 ## Contributing
 
 This project is intended as an out-of-the-box example for practicing business and data analysis. Feel free to fork the repository, adapt the dataset or notebook for your own purposes, and submit pull requests with enhancements.
+
+## Usage
+
+To explore the analysis yourself, clone the repository and open the `project_analysis.ipynb` notebook in Jupyter. You can adjust the code to explore additional questions or modify the synthetic dataset to simulate new scenarios.
